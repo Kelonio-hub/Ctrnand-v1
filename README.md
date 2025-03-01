@@ -1,6 +1,6 @@
 # Ctrnand-v1.gm9
 Ctrnand installation method using Godmode9.
-- Used Luma Pink's Boot.firm Trad. https://github.com/Kelonio-hub/Luma3DS_Pink
+- The pack brings the Luma Pink Boot.firm Translated https://github.com/Kelonio-hub/Luma3DS_Pink
 - Revision 2025
 - You can view and edit from Visual Studio Code.
 - #TeAmoKelonio
@@ -10,7 +10,7 @@ _________
 
 # Ctrnand-v1.gm9
 Método de instalación Ctrnand mediante Godmode9. 
-- Utiliza el Boot.fimr de Luma Pink Traducidos https://github.com/Kelonio-hub/Luma3DS_Pink
+- El pack trae el  Boot.firm de Luma Pink Traducido https://github.com/Kelonio-hub/Luma3DS_Pink
 - Revisión 2025
 - Puede visualizar y editar desde Visual Studio Code.
 - #TeAmoKelonio
