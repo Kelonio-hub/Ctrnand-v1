@@ -1,6 +1,6 @@
 # Ctrnand-v1.gm9
 Ctrnand installation method using Godmode9.
-- Use Luma Pink's Boot.firm Trad. https://github.com/Kelonio-hub/Luma3DS_Pink
+- Used Luma Pink's Boot.firm Trad. https://github.com/Kelonio-hub/Luma3DS_Pink
 - Revision 2025
 - You can view and edit from Visual Studio Code.
 - #TeAmoKelonio
